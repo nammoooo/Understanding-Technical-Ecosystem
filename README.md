@@ -13,7 +13,7 @@
 
 <hr>
 
-<h4>Backend Development</h4> <i>Backend is the server side of a website. It is the portion of software that does not come in direct contact with the users, used to store and arrange data.</i>
+<h4>Backend Development</h4> <i>Backend is the <b>'server side'</b> of a website. It is the portion of software that does not come in direct contact with the users, used to store and arrange data.</i>
 
 
 ![Backend-design-roadmap](https://user-images.githubusercontent.com/88934779/136917412-0a5a5623-e7ad-4c3c-924a-7f421a7b2adf.jpg)
@@ -29,7 +29,7 @@
 <hr>
 
 <h4>Frontend Development</h4>
-<i>The part of a website that the user interacts directly, also referred to as the ‘client side’ of the application.</i>
+<i>The part of a website that the user interacts directly, also referred to as the <b>‘client side’</b> of the application.</i>
 
 ![frontend-design-roadmap](https://user-images.githubusercontent.com/88934779/136917153-cab4adfa-4fdf-4c08-911e-2c6b472dfe54.jpg)
 
